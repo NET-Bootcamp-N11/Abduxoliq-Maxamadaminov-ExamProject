@@ -1,2 +1,2 @@
 ## Crystal Clear Architecture asosida proyekt
-### Hammasi sip-sillliq ishlamoqda (muammosiz) 
+### Hammasi sip-sillliq ishlamoqda (muammosiz)

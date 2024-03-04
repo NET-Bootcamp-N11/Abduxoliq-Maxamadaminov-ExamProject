@@ -20,7 +20,7 @@ namespace BookStore.Infrastructure.BaseRepositories
         public string Create(T model)
         {
             // Prezentatsiyam davomida Sarvaraka etkanlaridek Tranzaksiyar EFCoreda ishlatish ortiqcha ishligini bilib oldim
-            // 
+            // Lekn boxonada tranzaksiya yozishiyam organvoldm)
             // 
             using IDbContextTransaction? transaction =  _context.Database.BeginTransactionAsync().GetAwaiter().GetResult();
             try
